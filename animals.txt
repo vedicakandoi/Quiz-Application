@@ -1,0 +1,1014 @@
+#Q Which of these Presidents had the most pets?
+^ Theodore Roosevelt
+A Franklin Delano Roosevelt
+B Theodore Roosevelt
+C Bill Clinton
+D Woodrow Wilson
+
+#Q What breed is known as the favourite breed of Queen Elizabeth II?
+^ Welsh Corgi
+A Border Collie
+B Old English Sheepdog
+C Welsh Corgi
+D Australian Cattle Dog
+
+#Q What was the name of Fraisers fathers dog on the hit TV show set in Seattle?
+^ Eddie
+A Niles
+B Marty
+C Eddie
+D Skip
+
+#Q Which one of these sea mammals is not in the endangered species lists?
+^ Pilot whale
+A Fin Whale
+B Pilot whale
+C Blue Whale
+D Humpback Whale
+
+#Q This endangered turtle is the biggest of all living turtles, reaching a length of over 2.7 m (8.8 ft) and weight of 900 kg (2,000 lb).
+^ Leatherback Sea Turtle
+A Leatherback Sea Turtle
+B Kemps Ridley Turtle
+C Hawksbill Sea Turtle
+D Mesoamerican River Turtle
+
+#Q Name the rarest and most endangered of all wolves.
+^ Red Wolf
+A Red Wolf
+B Ethiopian Wolf
+C Black-backed Wolf
+D Gray Wolf
+
+#Q This species of great apes with long arms and reddish hair suffer habitat destruction due to logging, mining and forest fires.
+^ Orangutan
+A Gorilla
+B Baboons
+C Orangutan
+D Chimpanzee
+
+#Q What is the natural habitat of the snows leopard, that was hunted down for its beautiful fur, as a result of which its population went down to 1,000 animals in the 1960s?
+^ Central Asia
+A North America
+B Central Asia and North America
+C Central Asia
+D Europe and North America
+
+#Q This freshwater mammal, found only in the Yangtze River, is the most endangered (even possibly extinct) cetacean and one of the most endangered species in the world.
+^ Chinese River Dolphin
+A Ganges River Dolphin
+B Chinese River Dolphin
+C La Plata Dolphin
+D Amazon River Dolphin
+
+#Q This small nocturnal animal, whose natural habitat are the deserts of Northern Africa, is known to jump not only for hunting or protection, but also for pleasure.
+^ Fennec
+A Cape Fox
+B Red Fox
+C Bengal Fox
+D Fennec
+
+#Q Jack jumper ants, yellowish-orange carnivorous ants named after their characteristic jumpy motions, can be found only on which continent?
+^ Australia
+A North America
+B Australia
+C Africa
+D Asia
+
+#Q This small, graceful member of the antelope family is an extraordinary jumper - while leaping, it touches the rocky terrain of its South African habitats only with the tip of its hooves, resembling a dance.
+^ Klipspringer
+A Oribi
+B Roan Antelope
+C Scimitar Oryx
+D Klipspringer
+
+#Q Which of these animals swims the fastest?
+^ Dolphin
+A Flounder
+B Shark
+C Dolphin
+D Jellyfish
+
+#Q Which word refers to the sound peacocks make?
+^ Scream
+A Scream
+B Squill
+C Squeak
+D Squall
+
+#Q Ancient Japanese thought this animal caused earthquakes.
+^ Spiders
+A Birds
+B Spiders
+C Snakes
+D Frogs
+
+#Q How many types of bats are there?
+^ 900
+A 900
+B 700
+C 500
+D 200
+
+#Q This animal can clean its own ears with its 21-inch tongue.
+^ Giraffe
+A Lizard
+B Elephant
+C Lion
+D Giraffe
+
+#Q What is the fastest animal on 6 legs?
+^ Cockroach
+A Ladybug
+B Cockroach
+C Beetle
+D Ant
+
+#Q What is a female sheep called or known as?
+^ ewe
+A ewe
+B colt
+C fleece
+D ram
+
+#Q What is the white tigers scientific name?
+^ Panthera tigris
+A Pantha
+B Panthera tigis
+C Panthera tiger
+D Panthera tigris
+
+#Q Which of the following is not a type of chipmunk?
+^ Bushy-tailed
+A Bushy-tailed
+B Long-eared
+C Eastern
+D Sonoma
+
+#Q Which of these is not an actual breed of horse?
+^ Sioux
+A Sioux
+B Russian Trotter
+C Belgian
+D Murgese
+
+#Q Which of the following is not a breed of dog?
+^ Ferret terrier
+A Pom-a-poo
+B Lakeland terrier
+C Fox terrier
+D Ferret terrier
+
+#Q One of these is not a true breed of cat. Which one?
+^ French Twist
+A Pixie-bob
+B Maine coon
+C Ragdoll
+D French Twist
+
+#Q Which of these is not a type of beetle?
+^ Burrowing beetle
+A Long-horn beetle
+B Stag beetle
+C Flea beetle
+D Burrowing beetle
+
+#Q Which of the following is not a type of spider?
+^ Glass spider
+A Glass spider
+B Trapdoor spider
+C Brown recluse spider
+D Bird-dropping spider
+
+#Q All but one of the following are true types of bears. Which is the odd one?
+^ Moon bear
+A Moon bear
+B Brown bear
+C Black bear
+D Sun bear
+
+#Q Which of these is not an actual breed of sheep?
+^ Dakota
+A Scottish black-face
+B Dakota
+C Hampshire
+D Merino
+
+#Q One of these is not a true breed of chicken. Which one?
+^ Red-tailed
+A Hamburg
+B Plymouth Rock
+C Leghorn
+D Red-tailed
+
+#Q Which of the following is not a breed of pig?
+^ Ridgeback
+A Norwegian Yorkshire
+B Vietnamese pot-belly
+C Ridgeback
+D Tokyo-X
+
+#Q What is a group of lions called?
+^ Pride
+A Family
+B Group
+C School
+D Pride
+
+#Q Generally, how many times in an interval of 5 hours do lions mate?
+^ 10
+A 1
+B 5
+C 20
+D 10
+
+#Q What is the breed of animal created from the crossing of a male lion and a female tiger?
+^ Liger
+A Tigon
+B Tiges
+C Ligon
+D Liger
+
+#Q What is the breed of animal created from the crossing of a female lion and a male tiger?
+^ Tigon
+A Tigen
+B Liger
+C Tigon
+D Liges
+
+#Q What do male lions have which females do not possess?
+^ A mane
+A An extra tooth
+B A mane
+C Longer nails
+D Distinguished eyes
+
+#Q What is the average lifespan of a lion living in the wild?
+^ 10 -15 years
+A 20 - 30 years
+B Less than 10 years
+C 10 -15 years
+D Greater than 30 years
+
+#Q Cats twitch the tips of their tails slightly when hunting or when angry, while stronger twitching indicates what?
+^ Displeasure
+A Stress
+B Displeasure
+C Boredom
+D Playfulness
+
+#Q If a cat pushes its face against your head, this means what?
+^ Acceptance
+A Impatience
+B Submission
+C Acceptance
+D Aggression
+
+#Q Cats generally purr when they are happy, but they can also be heard purring in what other situation?
+^ When they are distressed or in pain
+A When they are distressed or in pain
+B When they are hunting or playing
+C When they are hungry or thirsty
+D When they are lonely or angry
+
+#Q How many different vocalization sounds does a cat make?
+^ 100
+A 100
+B 200
+C 50
+D 150
+
+#Q What was the largest  eagle ever found on Earth?
+^ Haasts Eagle
+A Golden Eagle
+B Haasts Eagle
+C Harpy Eagle
+D Bald Eagle
+
+#Q Which term refers to the group formed by frogs and amphibians?
+^ Herps
+A Drosophillia
+B Herps
+C Mollusks
+D Nematodes
+
+#Q Which statement about elephants is untrue?
+^ Elephants do not have great memories
+A Elephants sleep standing up
+B Elephants cry
+C There are some pink elephants in India
+D Elephants do not have great memories
+
+#Q What is alektorophobia?
+^ The unreasonable fear of chickens
+A The unreasonable fear of birds of prey
+B The unreasonable fear of roaches
+C The unreasonable fear of chickens
+D The unreasonable fear of sharks
+
+#Q How do scientists calculate the age of a fish?
+^ They count the growth rings on the ear bone.
+A They count all the teeth in the fishs mouth.
+B They measure the size of the fish and compare that to the average size of that type of  fish.
+C They count the growth rings on the ear bone.
+D They count the teeth in the fishs lower lip.
+
+#Q Pound for pound, humans are not the strongest animals. What is considered the strongest species, pound for pound?
+^ The Hercules beetle
+A The Hercules beetle
+B The leaf-cutting ant
+C The red ant
+D The atlas roach
+
+#Q Human beings have 23 pairs of  chromosomes. Which animal has the most chromosomes?
+^ hermit crabs
+A minke whale
+B millipedes
+C elephants
+D hermit crabs
+
+#Q What type of animal is a lamprey?
+^ fish
+A worm
+B fish
+C insect
+D amphibian
+
+#Q What is the name of the first book by Darwin that directly dealt with evolution?
+^ On the Origins of the Species
+A Essay on the Principles of Population
+B Totem and Taboo
+C On the Origins of the Species
+D The Descent of Man and the Selection in Relation to Sex
+
+#Q Which of these animals has the largest paws?
+^ An average lynx
+A An average mountain lion
+B An average nematode
+C An average lynx
+D An average lichen
+
+#Q Despite the myth that Chihuahuas were descendants of the royal dog of the Aztecs, it is also believed that Spanish trade merchants brought Chihuahuas to which of these countries?
+^ Mexico
+A Venezuela
+B United States
+C Brazil
+D Mexico
+
+#Q What maximum height at the withers can Chihuahuas reach?
+^ 15 inches (38 cm)
+A 24 inches (60 cm)
+B 15 inches (38 cm)
+C 12 inches (30 cm)
+D 9 inches (22 cm)
+
+#Q Chihuahuas are the only dogs to be born with what?
+^ An incomplete skull
+A An extra leg tendon
+B Hairless inner ears
+C An incomplete skull
+D Two extra canine teeth
+
+#Q What is the average lifespan of Chihuahuas?
+^ 8- 18 years
+A 8 - 12 years
+B 8- 18 years
+C 8 - 26 years
+D 8 - 15 years
+
+#Q The Chihuahua Gidget is famous for what reason?
+^ It was a mascot for Taco Bell.
+A Paris Hilton has it as a pet.
+B It was a fill-in mascot for the Georgia Bulldogs.
+C It was a mascot for Taco Bell.
+D It was a mascot for Taco John.
+
+#Q What does the word “hippopotamus” mean?
+^ River horse
+A Water pig
+B Fat horse
+C River horse
+D River pig
+
+#Q How long in years is the life span of an average wild hippopotamus?
+^ 40-50
+A 10-20
+B 40-50
+C 30-40
+D 20-30
+
+#Q This is the basic food of the sea. Billions upon billions of these organisms live in the sea.
+^ Plankton
+A Seaweed
+B Plankton
+C Crabs
+D Shrimp
+
+#Q This is the result of the gravitational pull from the moon and sun.
+^ Tides
+A Migration of certain species of whales
+B Tides
+C Shoreline
+D Waves
+
+#Q These creatures look like flowers as they grow attached to rocks. Their tentacles open like fleshy petals and contract whenever danger is near.
+^ Sea Anemones
+A Kelp
+B Jellyfish
+C Sponges
+D Sea Anemones
+
+#Q This sea animal, widely considered the most valuable shellfish, is common in shallow, warmer waters of all oceans.
+^ Oyster
+A Oyster
+B Shrimp
+C Scallop
+D Lobster
+
+#Q This crab is not really a crab, but an arthropod. Its closest relative is the spider.
+^ Horseshoe crab
+A Fiddler Crab
+B Horseshoe crab
+C Spider Crab
+D Rock Crab
+
+#Q These worms are not in fact worms, but bivalves. They enter wood as larvae, where they remain and grow, burrowing through the wood.
+^ Shipworms
+A Sea Mice
+B Ribbon Worms
+C Lugworms
+D Shipworms
+
+#Q Also called Sea Biscuit, this animal lives in deeper water half-buried in the sand.
+^ Sand Dollar
+A Sand Dollar
+B Star Fish
+C Scallop
+D Mussel
+
+#Q The red kangaroo appears on the Coat of Arms of Australia together with what other endemic Australian animal?
+^ Emu
+A Emu
+B Platypus
+C Dingo
+D Koala
+
+#Q Which of these mammals was brought to Australia by humans?
+^ The dingo
+A The echidna
+B The dingo
+C The koala
+D The Tasmanian tiger
+
+#Q Which of the following statements about echidnas, mammals native to Australia, is wrong?
+^ Echidnas are marsupials.
+A Echidnas are covered with spines.
+B Echidnas have snouts.
+C Echidnas lay eggs.
+D Echidnas are marsupials.
+
+#Q The diet of the koala consists mainly of what plant species?
+^ Eucalyptus
+A Eucalyptus
+B Bamboo
+C Willow
+D Cork Oak
+
+#Q Which one of these Australian reptiles is the largest living crocodile in the world?
+^ The saltwater crocodile
+A The thorny devil
+B The weedy sea dragon
+C The blue-tongued skink
+D The saltwater crocodile
+
+#Q This Australian monotreme lays eggs and has a remarkable sense of electroception.
+^ Platypus
+A Platypus
+B Red kangaroo
+C Dingo
+D Emu
+
+#Q Which Australian animal is the largest living carnivorous marsupial on Earth?
+^ The Tasmanian devil
+A The Tasmanian tiger
+B The Tasmanian devil
+C The platypus
+D The red kangaroo
+
+#Q Qantas, Australias largest airline company, has what Australian animal on its red-and-white logo?
+^ Kangaroo
+A Koala
+B Kangaroo
+C Emu
+D Tasmanian devil
+
+#Q What is the difference between the male and the female Galah, a cockatoo bird native to Australia?
+^ Males and females have different eye colour.
+A There is no difference between them.
+B Males and females have different eye colour.
+C Galah males are crested.
+D Galah females have shorter tails.
+
+#Q What is the average weight of the Tasmanian Pygmy Possum?
+^ About 7g
+A About 250g
+B About 50g
+C About 100g
+D About 7g
+
+#Q Which lizard can squirt blood from the corners of its eyes in order to confuse and drive back its enemies?
+^ Horned lizard
+A Anole
+B Gila monster
+C Horned lizard
+D Komodo dragon
+
+#Q The venomous lizard Gila monster was named after what?
+^ The Gila River basin
+A The Gila River basin
+B The Gila Expedition 1857
+C Alberto Gilardino
+D Gilligans Island
+
+#Q The Komodo dragon, the largest living lizard on Earth, lives in which part of the world?
+^ Indonesia
+A North America
+B Indonesia
+C South-western China
+D Madagascar
+
+#Q Which term refers to the self-defense mechanism which allows lizards to break off their tails when captured?
+^ Autotomy
+A Apotemnophilia
+B Autonomy
+C Autotomy
+D Autism
+
+#Q Which of these statements about geckos is true?
+^ All of these
+A Geckos have toe pads which help them climb smooth vertical surfaces.
+B All of these
+C Geckos can make chirping sounds.
+D Geckos feed on insects.
+
+#Q Chameleons are lizards that can change their colour. What does Chameleon mean in Greek?
+^ Earth lion
+A Green melon
+B Karma lion
+C Colourful
+D Earth lion
+
+#Q Geckos have immovable eyelids and cant blink. How do they keep their eyes clean?
+^ They lick their own eyes.
+A A tiny insect lives under their eyelids and cleans their eyes.
+B They lick their own eyes.
+C They dip their eyes in water.
+D They cover their eyes with their toes.
+
+#Q The lizards which do not have legs are commonly known by what name?
+^ Glass lizards
+A Glass lizards
+B Monitor lizards
+C Skinks
+D Iguanas
+
+#Q Which of these lizard species is not endangered?
+^ Eastern Bearded Dragon
+A Eastern Bearded Dragon
+B Blunt-nosed Leopard Lizard
+C Mona Ground Iguana
+D Komodo Dragon
+
+#Q No lizard species live on which continent?
+^ Antarctica
+A South America
+B Antarctica
+C Europe
+D Asia
+
+#Q This shark is considered a filter- feeder. Its diet consists mainly of plankton, krill, and macro-algae.
+^ whale shark
+A whale shark
+B bull shark
+C great white shark
+D pygmy shark
+
+#Q This sharks white belly and grey back make it difficult for prey to spot.
+^ great white shark
+A hammerhead shark
+B tiger shark
+C great white shark
+D whale shark
+
+#Q Which of these sharks has a flat body like a stingray?
+^ angel shark
+A basking shark
+B blue shark
+C blacktip reef shark
+D angel shark
+
+#Q This shark was believed to be extinct, until it was found on the coast of Japan in 1898.
+^ goblin shark
+A cookie cutter shark
+B mako shark
+C goblin shark
+D angel shark
+
+#Q Which shark is the fastest swimmer?
+^ mako shark
+A goblin shark
+B mako shark
+C nurse shark
+D sandtiger shark
+
+#Q What is the common name for baby sharks?
+^ pups
+A calves
+B pecks
+C cubs
+D pups
+
+#Q How many recognized giraffe subspecies exist?
+^ 9
+A 6
+B 7
+C 9
+D 5
+
+#Q Which of these is not a subspecies of giraffe?
+^ East African Giraffe
+A Somali Giraffe
+B Rothschilds Giraffe
+C Kordofan Giraffe
+D East African Giraffe
+
+#Q How long is a giraffes gestation period?
+^ 14- 15 months
+A 18 - 20 months
+B 10 months
+C 14- 15 months
+D 9 months
+
+#Q How many pounds of leaves can a giraffe consume daily?
+^ 140 pounds
+A 60 pounds
+B 100 pounds
+C 140 pounds
+D 210 pounds
+
+#Q What group of dogs does the beagle belong to?
+^ hound
+A retrievers
+B setters
+C hound
+D terriers
+
+#Q The beagle was developed mainly for tracking what animal?
+^ rabbits
+A squirrels
+B rabbits
+C raccoons
+D coyotes
+
+#Q About how many years have beagles been around?
+^ 2,000
+A 2,000
+B 5,000
+C 4,000
+D 3,000
+
+#Q Which of the following cartoon dogs was a beagle?
+^ Snoopy
+A Courage
+B Scooby Doo
+C Snoopy
+D Clifford
+
+#Q What is the typical lifespan of the beagle?
+^ 12 years
+A 20 years
+B 15 years
+C 7 years
+D 12 years
+
+#Q What type of coat do beagles have?
+^ medium
+A long
+B short
+C medium
+D depends on the dog
+
+#Q The puggle is a mix between a beagle and what dog?
+^ pug
+A papillion
+B puli
+C poodle
+D pug
+
+#Q In what country was the goldfish first domesticated?
+^ China
+A Egypt
+B China
+C Japan
+D India
+
+#Q How long can a goldfish live in optimal conditions?
+^ 20 years
+A 5 years
+B 8 years
+C 10 years
+D 20 years
+
+#Q How long can a goldfish live in optimal conditions?
+^ 20 years
+A 5 years
+B 8 years
+C 10 years
+D 20 years
+
+#Q In Europe goldfish were first introduced to what country?
+^ Portugal
+A France
+B England
+C Italy
+D Portugal
+
+#Q What color goldfish were most prized by the Chinese royalty several centuries ago?
+^ Yellow
+A Silver
+B Yellow
+C Orange
+D Red
+
+#Q What color are wild goldfish?
+^ Green
+A Silver
+B Orange
+C Yellow
+D Green
+
+#Q This bird is the fastest animal on the planet in its hunting method, the stoop.
+^ Peregrine Falcon
+A Bald Eagle
+B Red-tailed Hawk
+C Peregrine Falcon
+D Golden Eagle
+
+#Q These raptors are known for their unusually social behavior. They even hunt in groups while the majority of raptors are solitary hunters.
+^ Harris Hawk
+A Golden Eagle
+B Turkey Vulture
+C Spotted Owl
+D Harris Hawk
+
+#Q This animal is the largest of the deer family and can be found in the northern parts of North America.
+^ Moose
+A Gazelle
+B Moose
+C White Tailed Deer
+D Elk
+
+#Q Which of these animals cannot be found in North America?
+^ Dingo
+A Flamingo
+B Walrus
+C Dingo
+D Beaver
+
+#Q This bear, also known as a Silvertip bear, is native to North America.
+^ Grizzly Bear
+A Panda Bear
+B Polar Bear
+C Red Panda Bear
+D Grizzly Bear
+
+#Q The coyote lives in North America and also goes by this name.
+^ Prairie Wolf
+A Desert Dog
+B Prairie Wolf
+C Prairie Dog
+D Small Wolf
+
+#Q This North American animal is at the top of the food chain in the arctic region.
+^ Polar Bear
+A Walrus
+B Polar Bear
+C Arctic Fox
+D Penguin
+
+#Q This mammal is known for its black fur with a white stripe and for its apparent odor.
+^ Skunk
+A Sloth
+B Ferret
+C Skunk
+D Weasel
+
+#Q What type of animal is the cottonmouth?
+^ Snake
+A Mouse
+B Snake
+C Bat
+D Lizard
+
+#Q This creature belongs to the rodent family and is covered in sharp spines or quills.
+^ Porcupine
+A Nutria
+B Armadillo
+C Kiwi
+D Porcupine
+
+#Q How many species of skunk exist?
+^ 11
+A 6
+B 8
+C 13
+D 11
+
+#Q How many young skunks can be born in one litter?
+^ 1-7
+A 1-10
+B 1-5
+C 1-7
+D 1-4
+
+#Q What do skunks eat in the wild?
+^ All of these
+A All of these
+B Insects
+C Meat
+D Fruit
+
+#Q How much of an effective range do skunks odor glands have?
+^ 15 feet
+A 15 feet
+B 10 feet
+C 8 feet
+D 20 feet
+
+#Q How many subspecies of Red Fox are found in India?
+^ 3
+A 2
+B None. Red Fox are not native to India.
+C 1
+D 3
+
+#Q Which of these coat colors is not found in wild Red Fox populations?
+^ Black
+A Golden
+B Spotted
+C Red
+D Black
+
+#Q What is the top speed that the Red Fox can reach?
+^ 45 mph
+A 25 mph
+B 35 mph
+C 45 mph
+D 55 mph
+
+#Q Which of these are eaten by the Red Fox?
+^ All of these
+A Insects
+B worms
+C All of these
+D eggs
+
+#Q How long is the Red Foxs lifespan in the wild?
+^ 3 years
+A 3 years
+B 8 years
+C 6 years
+D 10 years
+
+#Q Approximately how long is a Red Foxs gestation period?
+^ 55 days
+A 89 days
+B 55 days
+C 40 days
+D 34 days
+
+#Q What is an adult male rooster known as?
+^ Rooster
+A Rooster
+B Buck
+C Hen
+D Foul
+
+#Q What is the word used for someone that is afraid of chickens?
+^ Alektorphobic
+A Xenophobic
+B Chickopobic
+C Alektorphobic
+D Avianphobic
+
+#Q Which of the following is not a breed of chicken?
+^ Chinese Crested
+A Australorp
+B Cubalaya
+C Houdan
+D Chinese Crested
+
+#Q How many beats per minute does a chickens heart usually beat?
+^ 280-315
+A 100-234
+B 147-189
+C 280-315
+D 95-124
+
+#Q Which of the following color of egg is incorrect for a chicken egg?
+^ black
+A black
+B white
+C pink
+D blue
+
+#Q All domestic chickens can be traced back to which bird?
+^ The Red Jungle Fowl
+A The Wild Turkey
+B The Macaw
+C The Red Jungle Fowl
+D The Amazon Rain Forest Chicken
+
+#Q Which of the following characters is a chicken?
+^ Foghorn Leghorn
+A Dori
+B Foghorn Leghorn
+C Daffy
+D Kermit
+
+#Q What is the average lifespan of a lion in the wild?
+^ 10-14 years
+A 6-9 years
+B 20-24 years
+C 10-14 years
+D 15-20 years
+
+#Q Most lions only survive in Africa. But a population of the much endangered Asiatic lion lives in India. How many estimated lions live in India as of 2007?
+^ 300
+A 300
+B 550
+C 1,500
+D 3,000
+
+#Q What is the average maximal speed a lion can reach?
+^ 35 mph / 56 km/h
+A 35 mph / 56 km/h
+B 45 mph / 72 km/h
+C 20 mph / 32 km/h
+D 40 mph / 64 km/h
+
+#Q Approximately what amount of meat does an adult male lion’s diet require per day?
+^ 15 lbs. (6.8 kg)
+A 10 lbs. (4.5 kg)
+B 5 lbs. (2.2 kg)
+C 15 lbs. (6.8 kg)
+D 25 lbs. (11 kg)
+
+#Q Approximately how long is a lions gestation period?
+^ 120 days
+A 200 days
+B 30 days
+C 120 days
+D 60 days
+
+#Q How many species of penguins live in warm or even tropical environments?
+^ 4
+A 0
+B 3
+C 2
+D 4
+
+#Q Which of these is the largest species of penguins?
+^ Emperor Penguin
+A King Penguin
+B Giant Penguin
+C Emperor Penguin
+D Royal Penguin
+
+#Q What does the word penguin mean?
+^ Fat
+A Fat
+B Black and White
+C Swimmer
+D Bird
+
+#Q Which of these animals is NOT a natural predator of penguins?
+^ Polar Bear
+A Leopard Seal
+B Polar Bear
+C Stellars Sea Eagle
+D Orca (Killer Whale)
+
+#Q Where can the polar bear be found?
+^ Arctic
+A South Pole
+B Antartica
+C Arctic
+D All of these
+
+#Q What color is a polar bears skin?
+^ Black
+A Black
+B White
+C Pink
+D Yellow
